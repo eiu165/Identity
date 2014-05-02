@@ -10,6 +10,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Owin;
 using WebApplication1.Models;
+using SuperIdentity.Entity;
 
 namespace WebApplication1.Controllers
 {

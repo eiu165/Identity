@@ -223,9 +223,9 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.AspNet.Identity.Memory\Microsoft.AspNet.Identity.Memory.csproj">
-      <Project>{2d46d011-8b29-4720-8f9e-f0492b37ba58}</Project>
-      <Name>Microsoft.AspNet.Identity.Memory</Name>
+    <ProjectReference Include="..\SuperIdentity\SuperIdentity.csproj">
+      <Project>{12ff05e5-acf5-4545-a4bb-d9ad9e939f1c}</Project>
+      <Name>SuperIdentity</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

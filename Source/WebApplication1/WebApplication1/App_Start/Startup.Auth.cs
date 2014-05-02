@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNet.Identity; 
+﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.DataProtection;
 using Owin;
+using SuperIdentity.Entity;
 using System;
 using WebApplication1.Models;
 
